@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Research Agent",
+  "description": "An autonomous web research agent that brainstorms, searches, compiles, and self-reviews research reports using Gemini 2.0 Flash.",
+  "requestFramePermissions": []
+}
